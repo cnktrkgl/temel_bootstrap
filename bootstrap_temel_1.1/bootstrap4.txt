@@ -1,0 +1,2 @@
+bootstrap sürüm 4 kullanıldı.
+bootstrap framework css, js, jquery, popper.js kaynaklarını kullanıldı.
